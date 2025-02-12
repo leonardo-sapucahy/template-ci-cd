@@ -7,4 +7,3 @@ subnets_id = [
   "subnet-003312a55d84575b4",
   "subnet-0fdc583612e677445"
 ]
-
